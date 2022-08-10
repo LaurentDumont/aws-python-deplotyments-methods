@@ -1,1 +1,1 @@
-### Simple EC2 deployment
+### Simple EC2 deployment with Application Load Balancer (ALB)

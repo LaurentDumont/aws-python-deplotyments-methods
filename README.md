@@ -12,3 +12,7 @@
 - lambda
 - lightsail
 - AWS App Runner
+
+
+### Authentication to AWS with Terraform
+- By default, Terraform will use the credentials in your home folder (on linux) at `~/.aws/config`
